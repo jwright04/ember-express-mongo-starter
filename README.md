@@ -1,7 +1,10 @@
 # Ember-starter
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Express and MongoDB will soon be added.
+
+TODO:
+Add ExpressJS + MongoDB w/ Mongoose
 
 ## Prerequisites
 
